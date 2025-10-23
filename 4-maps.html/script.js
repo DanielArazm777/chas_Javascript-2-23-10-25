@@ -1,5 +1,5 @@
 
-  const dogs = ["Labrador", "Beagle", "Poodle", "Pug", "Chihuahua"]
+  const dogs = ["Labrador", "Beagle", "Poodle", "Pug", "Chihuahua"];
 
 
     const doggieWalks = dogs.maps((dogName) => { //ändrade foreach till map//
